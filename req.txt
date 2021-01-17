@@ -1,0 +1,6 @@
+pip install tensorflow
+install -U scikit-learn
+python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+pip install plotly==4.14.1
+pip install streamlit
+pip install pydot

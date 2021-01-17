@@ -1,0 +1,2 @@
+python3.7 -m venv env37
+source ./env37/bin/activate
